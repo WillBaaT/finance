@@ -24,7 +24,7 @@ TOKEN_FILE = "token.json"
 
 # Google Sheets 試算表 ID（從網址取得）
 # 例: https://docs.google.com/spreadsheets/d/【這裡】/edit
-SPREADSHEET_ID = "YOUR_SPREADSHEET_ID"
+SPREADSHEET_ID = "16ozK0pwZVBP_0Of4XEz0MjVrNP9Ro6nUQhC2fhJVZrU"
 
 # 工作表名稱
 SHEET_NAME = "CBOE_PutCall"
