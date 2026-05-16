@@ -1,0 +1,13 @@
+# Garmin credentials & tokens
+.garmin_tokens.json
+.env
+
+# Garmin exported health data
+garmin_data.json
+garmin_*.json
+garmin_*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
